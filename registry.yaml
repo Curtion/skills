@@ -2,5 +2,9 @@
 skills:
   - name: tavily-cli
     source: github.com/tavily-ai/skills/skills/tavily-cli
+  - name: tavily-extract
+    source: github.com/tavily-ai/skills/skills/tavily-extract
+  - name: tavily-search
+    source: github.com/tavily-ai/skills/skills/tavily-search
   - name: skillshare
     source: github.com/runkids/skillshare/skills/skillshare
