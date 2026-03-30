@@ -8,3 +8,7 @@ skills:
     source: github.com/tavily-ai/skills/skills/tavily-search
   - name: skillshare
     source: github.com/runkids/skillshare/skills/skillshare
+  - name: gh-cli
+    source: https://github.com/github/awesome-copilot/skills/gh-cli
+  - name: find-skills
+    source: https://github.com/vercel-labs/skills/skills/find-skills
