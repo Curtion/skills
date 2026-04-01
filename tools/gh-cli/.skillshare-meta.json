@@ -4,7 +4,7 @@
   "installed_at": "2026-03-30T22:39:35.1127057+08:00",
   "repo_url": "https://github.com/github/awesome-copilot.git",
   "subdir": "skills/gh-cli",
-  "version": "1c292d3",
+  "version": "6cc49fc",
   "tree_hash": "437437f7f20bcdbbdb3081cf164435a388c0a39a",
   "file_hashes": {
     "SKILL.md": "sha256:18e53a9f4c154406a072ed4cfbc524d40f9a4734ef25102086c1ef5e24113a76"
