@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "entries": {
+    "find-skills": {
+      "source": "https://github.com/vercel-labs/skills/skills/find-skills"
+    },
+    "gh-cli": {
+      "source": "github.com/github/awesome-copilot/skills/gh-cli"
+    },
+    "skillshare": {
+      "source": "github.com/runkids/skillshare/skills/skillshare"
+    },
+    "tavily-cli": {
+      "source": "github.com/tavily-ai/skills/skills/tavily-cli"
+    },
+    "tavily-extract": {
+      "source": "https://github.com/tavily-ai/skills/skills/tavily-extract"
+    },
+    "tavily-search": {
+      "source": "https://github.com/tavily-ai/skills/skills/tavily-search"
+    },
+    "tools/find-skills": {
+      "source": "https://github.com/vercel-labs/skills/skills/find-skills",
+      "type": "github-subdir",
+      "group": "tools",
+      "installed_at": "2026-03-30T17:34:04.9803023+08:00",
+      "repo_url": "https://github.com/vercel-labs/skills.git",
+      "subdir": "skills/find-skills",
+      "version": "690fa75",
+      "tree_hash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
+      "file_hashes": {
+        "SKILL.md": "sha256:5df70a7a474aaed217246277e17882e3eb9025077189026dfb028a713b480926"
+      }
+    },
+    "tools/gh-cli": {
+      "source": "github.com/github/awesome-copilot/skills/gh-cli",
+      "type": "github-subdir",
+      "group": "tools",
+      "installed_at": "2026-03-30T22:39:35.1127057+08:00",
+      "repo_url": "https://github.com/github/awesome-copilot.git",
+      "subdir": "skills/gh-cli",
+      "version": "6cc49fc",
+      "tree_hash": "437437f7f20bcdbbdb3081cf164435a388c0a39a",
+      "file_hashes": {
+        "SKILL.md": "sha256:18e53a9f4c154406a072ed4cfbc524d40f9a4734ef25102086c1ef5e24113a76"
+      }
+    },
+    "tools/skillshare": {
+      "source": "https://github.com/runkids/skillshare.git/skills/skillshare",
+      "type": "github-subdir",
+      "group": "tools",
+      "installed_at": "2026-04-01T14:28:49.9749969+08:00",
+      "repo_url": "https://github.com/runkids/skillshare.git",
+      "subdir": "skills/skillshare",
+      "version": "39fe812",
+      "tree_hash": "d3fedec9994e931235eb63e47218ac250fa55ce2",
+      "file_hashes": {
+        "SKILL.md": "sha256:5114693a92f21effb4c99e570a181e7ff673c72e6847001f9189a5c80f5d0352",
+        "references/TROUBLESHOOTING.md": "sha256:963ef806ee223dd4abe9e5cdf3911dc21d8cbba6ca545c3c72d18fb925d767ec",
+        "references/audit.md": "sha256:27c64924222212ca383a6426d842339c998a5b04a6ba8955de7af1108d854850",
+        "references/backup.md": "sha256:0daeea587726e8607f34bf77b0ecfe30542ee9b37a089400f9fc5b7faa361370",
+        "references/extras.md": "sha256:e829aeded61970f6a0b8168086a93a5948d92db73ebb657d6c32c2a84b7e5762",
+        "references/init.md": "sha256:2afba29bbaa6ea2d6b373f4e14cfdd6a1c93d53339226d42dd95902cbcd7b145",
+        "references/install.md": "sha256:15a71d885310efddf4f48cdd6c94e190af39d221f47911e6f040cb3abfc747ef",
+        "references/log.md": "sha256:882d3f3f94f8b3534cacfe4c9958c2649dccd84a80bca64392d6a77bddedf0c8",
+        "references/status.md": "sha256:0e97a2a3e648292b363207cf97e33915b33fe8f68fe59c81a36fd70c05d25fa5",
+        "references/sync.md": "sha256:6e1a9e1fdc80066a9ab9dcba7eaa7deea1e85800eb212a33cfadab08cd679308",
+        "references/targets.md": "sha256:d543068cc2c1e97393cd94e34118e6a0738f7423704dea0ce5919d4c75a65bd6",
+        "references/trash.md": "sha256:ee5d833d6e681458ebb6035c76a54d40f4dc47519808b7e63d4e5204d7792d4f",
+        "scripts/run.sh": "sha256:ce5532a4ab4fc64f3fcc24a6af1775508020bcd0c5c1c3c20e023b65f5ce3131"
+      }
+    },
+    "tools/tavily-cli": {
+      "source": "github.com/tavily-ai/skills/skills/tavily-cli",
+      "type": "github-subdir",
+      "group": "tools",
+      "installed_at": "2026-03-30T17:25:40.0613957+08:00",
+      "repo_url": "https://github.com/tavily-ai/skills.git",
+      "subdir": "skills/tavily-cli",
+      "version": "41e6b30",
+      "tree_hash": "6717ea654907d29e696c68fec83bd0548d93371a",
+      "file_hashes": {
+        "SKILL.md": "sha256:18c7cae96f904c26e9f017b7a9ba3cb8264bca6ac7efe05165db122f3b55c6ca"
+      }
+    },
+    "tools/tavily-extract": {
+      "source": "https://github.com/tavily-ai/skills/skills/tavily-extract",
+      "type": "github-subdir",
+      "group": "tools",
+      "installed_at": "2026-03-30T18:59:00.1111953+08:00",
+      "repo_url": "https://github.com/tavily-ai/skills.git",
+      "subdir": "skills/tavily-extract",
+      "version": "41e6b30",
+      "tree_hash": "5de24876e7faa5789ba64c4c07ed32e4bcfe2f4b",
+      "file_hashes": {
+        "SKILL.md": "sha256:046edfa13bc16dbf4fec6539030df2165a593690c13f4f03b0aa2f5ba667dfad"
+      }
+    },
+    "tools/tavily-search": {
+      "source": "https://github.com/tavily-ai/skills/skills/tavily-search",
+      "type": "github-subdir",
+      "group": "tools",
+      "installed_at": "2026-03-30T18:59:00.1607501+08:00",
+      "repo_url": "https://github.com/tavily-ai/skills.git",
+      "subdir": "skills/tavily-search",
+      "version": "41e6b30",
+      "tree_hash": "74e6f8996fa49a3ebe8aa8f3dbddc4a2c2b5e5e4",
+      "file_hashes": {
+        "SKILL.md": "sha256:e7e34379490f9920f803e183cedcfa0d67d560b999f4acdfbd8142ac41d09fd8"
+      }
+    }
+  }
+}
