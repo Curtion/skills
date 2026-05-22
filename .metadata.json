@@ -244,6 +244,27 @@
         "scripts/run.sh": "sha256:ce5532a4ab4fc64f3fcc24a6af1775508020bcd0c5c1c3c20e023b65f5ce3131"
       }
     },
+    "tools/spark": {
+      "source": "https://github.com/wishworldbetter/seedex-skills/skills/spark",
+      "type": "github-subdir",
+      "group": "tools",
+      "installed_at": "2026-05-22T09:18:33.6319025+08:00",
+      "repo_url": "https://github.com/wishworldbetter/seedex-skills.git",
+      "subdir": "skills/spark",
+      "version": "0015507",
+      "tree_hash": "18af5ff8fde22d8348740e92529e428d975b9b27",
+      "file_hashes": {
+        "README.md": "sha256:f05b4bcf755c7bf401d5c71f273fa69735303657a81b442bd8f8f78f072410d7",
+        "SKILL.md": "sha256:e36ad77e93ad17b623bb8159c04361bf838354d32648919d26416d26309388b6",
+        "scripts/frame-template.html": "sha256:7c3a788b6fe3f66c4e87db0e756f0f60bce14d58585e3fc6a8d835cde701bfad",
+        "scripts/helper.js": "sha256:78b365dc45d6be506d2254ebde69f7f73f6d32176093fe2381afd03e34dedf6b",
+        "scripts/server.cjs": "sha256:4b951e038fdf624b4b2b4afa9ea4eec0c49a0fea253ed9c5e305b57eb3be495d",
+        "scripts/start-server.sh": "sha256:b6dc56c960ddf83cde2c6f5099364c0f5876dfb87f1ad0137c51e36ac810d948",
+        "scripts/stop-server.sh": "sha256:03fafa5cbfe3cd1d37094bbcd7b443cae7f4bb431652c8cd3bd0f65a520ab717",
+        "spec-document-reviewer-prompt.md": "sha256:845c53bf548472622150cb03708a6abbcc3c11cf86b7d7131e41e6789c334574",
+        "visual-companion.md": "sha256:50ad6b6de86deee5ce86a92c006c7cb40d413ab47a8f971d7942ef39da1a9b7f"
+      }
+    },
     "tools/tavily-cli": {
       "source": "github.com/tavily-ai/skills/skills/tavily-cli",
       "type": "github-subdir",
