@@ -1,6 +1,18 @@
 {
   "version": 1,
   "entries": {
+    "ponytail": {
+      "source": "github.com/DietrichGebert/ponytail/skills/ponytail",
+      "type": "github-subdir",
+      "installed_at": "2026-06-29T16:17:22.8111729+08:00",
+      "repo_url": "https://github.com/DietrichGebert/ponytail.git",
+      "subdir": "skills/ponytail",
+      "version": "bc9ee94",
+      "tree_hash": "f2a46af45b7c0a57edf990bd43ed2e79782c31ef",
+      "file_hashes": {
+        "SKILL.md": "sha256:e575026e2a6dffe408b10e6f7acc7ed47c83d71fc69f9c0d3880115f3f6c6aa7"
+      }
+    },
     "tools/find-skills": {
       "source": "https://github.com/vercel-labs/skills/skills/find-skills",
       "type": "github-subdir",
