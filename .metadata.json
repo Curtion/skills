@@ -112,15 +112,14 @@
       "source": "https://github.com/mattpocock/skills/skills/engineering/code-review",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:55.784475+08:00",
+      "installed_at": "2026-08-16T20:30:51.7432505+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/code-review",
-      "version": "6acc160",
-      "tree_hash": "7a2057dcc514dc024d4e6bf8ad78021b97f229ae",
+      "version": "068b6e0",
+      "tree_hash": "5705c0f8d7151ee7b9a74f0f959209ec90060ef1",
       "file_hashes": {
-        "SKILL.md": "sha256:9cf46653dd9c710ea1e6c22423caf31a794c88773bc94bdaa23140277f470442",
-        "agents/openai.yaml": "sha256:8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352"
+        "SKILL.md": "sha256:9e72b65b58b39f0e5705a03f44fc4b31dc7089028d12c85b0a206b7af47cb24d",
+        "agents/openai.yaml": "sha256:3f72329747a916ac8ab2b4004490c79e1be6774a8a83e5b258d6ddc7e866abfe"
       }
     },
     "matt/codebase-design": {
@@ -144,93 +143,87 @@
       "source": "https://github.com/mattpocock/skills/skills/engineering/diagnosing-bugs",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:55.820324+08:00",
+      "installed_at": "2026-08-16T20:30:55.6698248+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/diagnosing-bugs",
-      "version": "6acc160",
-      "tree_hash": "463c81def888fefa77b894837d301d9ed70e0994",
+      "version": "068b6e0",
+      "tree_hash": "8599c0f6e2bfce70b85973d3be6707426bc8e83f",
       "file_hashes": {
-        "SKILL.md": "sha256:b9339b09ee3980808d8c5a35c7251b891b8b1e0036ec4ca37812b976ebddf6b6",
-        "agents/openai.yaml": "sha256:3e430dbe4334a87597488c060cb3dc3786bb00c9182877d6f5ec41f62490e90b",
-        "scripts/hitl-loop.template.sh": "sha256:18ae07e1cc49b32c71767e241a6e8de4be74ef21d5e3b7e39034d9c7335f2d80"
+        "SKILL.md": "sha256:571bd503ef1ce9f9d143e705346e437881f6ba7307ecf0097646fc82881026c2",
+        "agents/openai.yaml": "sha256:167ab1659754b8c53706ecca7502ccc7fb219ff14f0c36bfb1db05ae31a8ac58",
+        "scripts/hitl-loop.template.sh": "sha256:6b562ebe26e307f7557fecc7e36cdf870b2cdbf05c391bf739686c76f4298955"
       }
     },
     "matt/domain-modeling": {
       "source": "https://github.com/mattpocock/skills/skills/engineering/domain-modeling",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:55.838808+08:00",
+      "installed_at": "2026-08-16T20:30:59.5166651+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/domain-modeling",
-      "version": "6acc160",
-      "tree_hash": "959e63161ff78b4b1cd553b2c0e09e0c68418e5f",
+      "version": "068b6e0",
+      "tree_hash": "05c3244ec75b7548bbc2b635b0624bb9f70369c3",
       "file_hashes": {
-        "ADR-FORMAT.md": "sha256:f1f36cd3f8d3b6474ddd5855da4e233bfc4ae1a1c5024909ccf11871819a41b2",
-        "CONTEXT-FORMAT.md": "sha256:b8cc318f2a4285b530e908b6bc43901c3c5cd11100362636bbc4216639bef597",
-        "SKILL.md": "sha256:152e2c97239affb12a60c5f4a7e74ab546a49ae169688c81f4e2ccc42dafa579",
-        "agents/openai.yaml": "sha256:f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
+        "ADR-FORMAT.md": "sha256:dba54707c3251660ecf7ee6ff154a816a62badddd4ef403062f3a34e23509636",
+        "CONTEXT-FORMAT.md": "sha256:f229cd8485b77ea76428ffb807058ebd1d254a391b9669b10081942d3d6e8dd3",
+        "SKILL.md": "sha256:b577e9dbc7bedc5b852bb0fb98555635ad0418c926e3f44ecfba9a9c477d0e9b",
+        "agents/openai.yaml": "sha256:ce496c77c77a090877bff10f198c9770fb52e23088351350ea0826380f948ff8"
       }
     },
     "matt/grill-me": {
       "source": "https://github.com/mattpocock/skills/skills/productivity/grill-me",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:56.097595+08:00",
+      "installed_at": "2026-08-16T20:31:03.359167+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/productivity/grill-me",
-      "version": "6acc160",
-      "tree_hash": "c817f6f36acd483294144694a935a76d3e3eb101",
+      "version": "068b6e0",
+      "tree_hash": "3df14e2d3a89459bf300614be9247e3ce74798f8",
       "file_hashes": {
-        "SKILL.md": "sha256:6189dfceb7304a6e5558f75d87e68fa3bc7fcf7ba120e44f21f8a61fe01eba54",
-        "agents/openai.yaml": "sha256:c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b"
+        "SKILL.md": "sha256:19e660207b447acf6ee0d600471c02e549c7aca8fb3ab38fdc2c7056aa442fc8",
+        "agents/openai.yaml": "sha256:c03a1eee1161bb70ca360b3d17705638b93bc8eec41319732725dc05a53196a5"
       }
     },
     "matt/grill-with-docs": {
       "source": "https://github.com/mattpocock/skills/skills/engineering/grill-with-docs",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:55.85682+08:00",
+      "installed_at": "2026-08-16T20:31:07.445952+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/grill-with-docs",
-      "version": "6acc160",
-      "tree_hash": "5fdcdeedf2d0c73b3ecb1da0a464dd885590f8d6",
+      "version": "068b6e0",
+      "tree_hash": "eedaf2562c83155115e9c649fa3ecaac2e10e81d",
       "file_hashes": {
-        "SKILL.md": "sha256:610d091047bcfb9db0f75c057d15538481a721111579fc5ec7f83ad9131a2165",
-        "agents/openai.yaml": "sha256:94cd0ab161fb468a836349f5ed482ba58ce8e709a05c57ce533d739dbd35cca9"
+        "SKILL.md": "sha256:abc0fa7948db18b5fb0e1cc1c522ac5ff47d874e2da1e5df60619d79be11f38b",
+        "agents/openai.yaml": "sha256:81e6af95559517a292767439da8f46a468b4d88a6773a3316d511a428eb16ff3"
       }
     },
     "matt/grilling": {
       "source": "https://github.com/mattpocock/skills/skills/productivity/grilling",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:56.117147+08:00",
+      "installed_at": "2026-08-16T20:31:11.2204172+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/productivity/grilling",
-      "version": "6acc160",
-      "tree_hash": "fd99bcbb818f7ef766b83656fb5fac0b58e223ad",
+      "version": "068b6e0",
+      "tree_hash": "0d40d978f1a588971a11ea7ae85b208e78102dc3",
       "file_hashes": {
-        "SKILL.md": "sha256:fa5c1e5ee76b1c8f1ae56101f52c9e239de75d5c578adc61227b92d10b7e52ef",
-        "agents/openai.yaml": "sha256:1411d7df7d99b7e621a1ff8283c8133cc2464be63d064e52d8ce169c6800ee9b"
+        "SKILL.md": "sha256:c00a8cc786d3349d45f5d986f563383f874658e218bace610e32edc417f735f5",
+        "agents/openai.yaml": "sha256:ad75163922ff8263acdd25ebc37420e8fcf1fccb93483fd5742e9bd26f5c45f6"
       }
     },
     "matt/handoff": {
       "source": "https://github.com/mattpocock/skills/skills/productivity/handoff",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:56.136095+08:00",
+      "installed_at": "2026-08-16T20:31:15.0419573+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/productivity/handoff",
-      "version": "6acc160",
-      "tree_hash": "184d485ae68a2132893a94239b2b85d253e6152b",
+      "version": "068b6e0",
+      "tree_hash": "2242e8f05424b8c2ae94194a90d97b88d16108ec",
       "file_hashes": {
-        "SKILL.md": "sha256:57c9f1f392d7352cdc85b1e39ca49eddc70ce1dc278bd9653fb4f23dfc2560fc",
-        "agents/openai.yaml": "sha256:5c479fd562c691851690e8b18c8501045bef0943c10743d636b2fae26add1d28"
+        "SKILL.md": "sha256:96f8045f01f569daa3737150d918b7201ccd090905fb10cefedd326e4001f551",
+        "agents/openai.yaml": "sha256:deb645c801764579994bd23d1954aa991ef1d0d55bf30043d47ada631fcff5f4"
       }
     },
     "matt/implement": {
@@ -252,16 +245,15 @@
       "source": "https://github.com/mattpocock/skills/skills/engineering/improve-codebase-architecture",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:55.892712+08:00",
+      "installed_at": "2026-08-16T20:31:18.8299763+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/improve-codebase-architecture",
-      "version": "6acc160",
-      "tree_hash": "6a971d1f5b109ac817e18c0f0419c2a32d60f26a",
+      "version": "068b6e0",
+      "tree_hash": "db546af0f3419a8bd261a83708d4cb33d2a915cd",
       "file_hashes": {
-        "HTML-REPORT.md": "sha256:0b0936104158abeef7246ff6cbabefa4dc055f17589f2833f2d93001421910a1",
-        "SKILL.md": "sha256:7b76f01b0eefe49a127754c9027a6235a036a21348df5dad988893d8b2f384d6",
-        "agents/openai.yaml": "sha256:c8cb20f68ebf0edb4e497bc11ae5fcaa196004e661cd189015b04f4109ced7f1"
+        "HTML-REPORT.md": "sha256:a1b8f23e710e68c2bba04edc4c6b9001a08af7bdebb8bc01c6964e76c9ba4855",
+        "SKILL.md": "sha256:2b6a775f119acbf77fe26b3ce84304922ad2621d5cfc228dd250ec856d38ab95",
+        "agents/openai.yaml": "sha256:6b69701fc3f4f31ec626c1ae5c090dc5c640fab147a63be81b575c2f9c5231fa"
       }
     },
     "matt/prototype": {
@@ -335,17 +327,16 @@
       "source": "https://github.com/mattpocock/skills/skills/engineering/tdd",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:55.984385+08:00",
+      "installed_at": "2026-08-16T20:31:22.5475933+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/tdd",
-      "version": "6acc160",
-      "tree_hash": "423f3cc2bccf3b0ed426fb35eeb4b38d9188a343",
+      "version": "068b6e0",
+      "tree_hash": "8c098cfbaf956292d413d1140f5ee68f70dcc9ee",
       "file_hashes": {
-        "SKILL.md": "sha256:5e6b9c16b547113e90afbb946489d1c1384be5c2128f0159bd0bee57251ecf08",
-        "agents/openai.yaml": "sha256:ea6f01cf1b8c06a4b0f5b649d74b1b8ce8685e72af1b38d70d877693e092af0b",
-        "mocking.md": "sha256:3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef",
-        "tests.md": "sha256:859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a"
+        "SKILL.md": "sha256:3a1102800fa8b3c4e1aa3f1fa9d18d3e4749ee8b5d86a3b560bbd53218dbf858",
+        "agents/openai.yaml": "sha256:f8e2afc1fbcd6a6e1178c30f290ca9f2286c949a0b74b8b68fd14f198b78ebac",
+        "mocking.md": "sha256:73a10b6a26b56197c738a764c1e4205af98c74553f4a713795997f6bc35b917d",
+        "tests.md": "sha256:0b401f98bd3684d2fea6440d6946afcf8f5f68ac6a65599dd7a2b90dd9f02eb5"
       }
     },
     "matt/teach": {
@@ -386,47 +377,44 @@
       "source": "https://github.com/mattpocock/skills/skills/engineering/to-spec",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:56.003586+08:00",
+      "installed_at": "2026-08-16T20:31:26.2852033+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/to-spec",
-      "version": "6acc160",
-      "tree_hash": "dc32a36159f99c854cb470f371106cd38513a15f",
+      "version": "068b6e0",
+      "tree_hash": "3ae0ea57dcf78171da3b54ddb27546171abcbb8c",
       "file_hashes": {
-        "SKILL.md": "sha256:5d26479544b08048d3a8f79d937b39bc613a617f026b3fd083bafc1e99a7b811",
-        "agents/openai.yaml": "sha256:1c5b4d1e3d8e52287ef19cc2742fdbbfae1914ac75d33af3e4c8174f08cc55bb"
+        "SKILL.md": "sha256:3868f99eb2acc817da8917b66b624844868d69d952201cea9836a1bbaf46b9b7",
+        "agents/openai.yaml": "sha256:55037139831219743dda1f716fe69eab3366e922529f69cc988fea3b1d34c74a"
       }
     },
     "matt/to-tickets": {
       "source": "https://github.com/mattpocock/skills/skills/engineering/to-tickets",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:56.021961+08:00",
+      "installed_at": "2026-08-16T20:31:30.0155075+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/to-tickets",
-      "version": "6acc160",
-      "tree_hash": "80c1bedbdaa72a4abd524055013accb4fe0ea8c4",
+      "version": "068b6e0",
+      "tree_hash": "3d8bb99bb91b9203c90bac852302facb58ac63a0",
       "file_hashes": {
-        "SKILL.md": "sha256:5ecdf1d4df8a360ed39df21a2347f97ba177afd449a577da4f6b6ea8e1ebb808",
-        "agents/openai.yaml": "sha256:21bc6215fffcd7614e9f772bb1760e87cc5fc7dcc707e7d282bc9414267a6090"
+        "SKILL.md": "sha256:e2bf71f57a55f3214c4b46dee0728a8760e809dcc044f56cc7fb5186ec01768b",
+        "agents/openai.yaml": "sha256:e396b8caaf6cdd95c94cf707a7ca2fa5c3a04b37ae5d4301b5b360a7ff7a34cb"
       }
     },
     "matt/triage": {
       "source": "https://github.com/mattpocock/skills/skills/engineering/triage",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:56.040943+08:00",
+      "installed_at": "2026-08-16T20:31:33.8965334+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/triage",
-      "version": "6acc160",
-      "tree_hash": "b20940845332f540e3f17b0cb32d45fd8c2298bf",
+      "version": "068b6e0",
+      "tree_hash": "6e908c1423a1b409e85066a6efbbbbc63b063e2b",
       "file_hashes": {
-        "AGENT-BRIEF.md": "sha256:5b78d347cc53f6bcf7b875106005ccf5315055fa4cf75eb28d41e96ee426d27b",
-        "OUT-OF-SCOPE.md": "sha256:2526f998fd7ca5e956d3f6f234bcc2431a5971ee769f1148ddc60b92f04d5914",
-        "SKILL.md": "sha256:91e2817ecb688c4df4e2444eab472d1d79d2a0a57abf9f6726967664c460ff2e",
-        "agents/openai.yaml": "sha256:2e683717720cf456d165d0bb1a68bb600d0b6a8ccb61841c172e50d26f95351c"
+        "AGENT-BRIEF.md": "sha256:77f2674735d8b3579980e69c53d9616ebc77e2ea5aa70d2017d8b06deea3f9ac",
+        "OUT-OF-SCOPE.md": "sha256:3e55f4709e93e6025c58756579b61360d83a22687f177bf33cad2838d4c246d0",
+        "SKILL.md": "sha256:a19338b26e2297a0e0d6463fb1a84d8d1b68d0ee50d38c1208f287fd0b164ef8",
+        "agents/openai.yaml": "sha256:d930356b9f23b89361f5b8f4fef87c911b35531b15a9005956c944a1058973ae"
       }
     },
     "matt/wait-what": {
@@ -448,15 +436,14 @@
       "source": "https://github.com/mattpocock/skills/skills/engineering/wayfinder",
       "type": "github-subdir",
       "group": "matt",
-      "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:56.060148+08:00",
+      "installed_at": "2026-08-16T20:31:37.6508191+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/wayfinder",
-      "version": "6acc160",
-      "tree_hash": "48c3a8b0a9705d6310d37f7f9b53bcb2c55955c7",
+      "version": "068b6e0",
+      "tree_hash": "2eaa53eab9b15423c782f3d2a0c442a65645bd0b",
       "file_hashes": {
-        "SKILL.md": "sha256:d33e2141f7c8bbfd137fef0213cbec465820e4680e67da5d0f0815d6742d26c2",
-        "agents/openai.yaml": "sha256:88bc81a11a6d52ac67aeaa76b8b619e387020d47c5133a4dd4927fd15c4ad073"
+        "SKILL.md": "sha256:f939b540243c3ec48b28d7330ef521acef6545a780678f49cf83a912a6bf2743",
+        "agents/openai.yaml": "sha256:3e698cdff8e84d0e900d8dec535060e9e6d16d923b313eefd881e958d164e37a"
       }
     },
     "matt/wizard": {
@@ -508,21 +495,21 @@
       "source": "https://github.com/runkids/skillshare.git/skills/skillshare",
       "type": "github-subdir",
       "group": "tools",
-      "installed_at": "2026-07-20T23:04:57.4827473+08:00",
+      "installed_at": "2026-08-16T20:31:41.820926+08:00",
       "repo_url": "https://github.com/runkids/skillshare.git",
       "subdir": "skills/skillshare",
-      "version": "ba46ae8",
-      "tree_hash": "a5314a48a805c653e2631c91d51f67fee27b210f",
+      "version": "14959e2",
+      "tree_hash": "4a841ea0a8cf1d04f8b9c82fd00a67fcd466658c",
       "file_hashes": {
-        "SKILL.md": "sha256:6cf5ee76787da9c219c7939bba16756b7b2ad50cdc18e1629e08bc3aaf18d08c",
+        "SKILL.md": "sha256:190d20890ce97c2ef3bcd7f2ab8e94f7e5edd8adf5e1460a92fa28de25760aef",
         "references/TROUBLESHOOTING.md": "sha256:963ef806ee223dd4abe9e5cdf3911dc21d8cbba6ca545c3c72d18fb925d767ec",
         "references/audit.md": "sha256:27c64924222212ca383a6426d842339c998a5b04a6ba8955de7af1108d854850",
-        "references/backup.md": "sha256:0daeea587726e8607f34bf77b0ecfe30542ee9b37a089400f9fc5b7faa361370",
+        "references/backup.md": "sha256:1b7833a3e0b4d9cb5cc1f9ba8b9aa49f85d04ddf2e3849e8b20fd3fe0ae3e0f1",
         "references/extras.md": "sha256:b65949421b11428ac35a948841fa8245afe93bf246ed62d66d93df59d845adbc",
         "references/init.md": "sha256:2afba29bbaa6ea2d6b373f4e14cfdd6a1c93d53339226d42dd95902cbcd7b145",
         "references/install.md": "sha256:ac2f33a33d790f5a51e64072af138329a10c98b718524efc26280989e7755fa2",
         "references/log.md": "sha256:882d3f3f94f8b3534cacfe4c9958c2649dccd84a80bca64392d6a77bddedf0c8",
-        "references/status.md": "sha256:0e97a2a3e648292b363207cf97e33915b33fe8f68fe59c81a36fd70c05d25fa5",
+        "references/status.md": "sha256:f25c597ae1c169afdd20e3469760b6f5fa4e826bde39a879a87729e31caa5745",
         "references/sync.md": "sha256:30cba80c9932cdffc0263e6b735323299e05547f7c83de3fd7d0a93ba26c1000",
         "references/targets.md": "sha256:e918e52b19baf4c93e4e9920070dc9f67173213a5d4e94cca920afc8cb5d077e",
         "references/trash.md": "sha256:e4d00cab0541297d2773aac41660ecc95416721bfc3c7fac4e7677f000cafccf",
