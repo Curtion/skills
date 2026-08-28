@@ -480,6 +480,21 @@
         "SKILL.md": "sha256:c1d9628984991d7ed59ab3a7bf6a4dad3d731ef68c71f409f64a0ca258e8028e"
       }
     },
+    "tools/i-have-adhd": {
+      "source": "https://github.com/ayghri/i-have-adhd/skills/i-have-adhd",
+      "type": "github-subdir",
+      "group": "tools",
+      "installed_at": "2026-08-28T11:50:47.7533647+08:00",
+      "repo_url": "https://github.com/ayghri/i-have-adhd.git",
+      "subdir": "skills/i-have-adhd",
+      "version": "cbe69fb",
+      "tree_hash": "871e88cbe9b167670c170c53c8173c68609a2ae9",
+      "file_hashes": {
+        "SKILL.md": "sha256:13969c0aa5a69127828ef10fb4a53aa2b56d08c184b9f4354d0ea34695c358bb",
+        "agents/gemini.toml": "sha256:3b59354aa9c5e0ebfc3941d5f12c469afea420b87c55093d2409fc446cac98e0",
+        "agents/openai.yaml": "sha256:0f227b4fb11ac6cc087464a96153e443c8541e92c0db605f356b2c1d4038c96e"
+      }
+    },
     "tools/skillshare": {
       "source": "https://github.com/runkids/skillshare.git/skills/skillshare",
       "type": "github-subdir",
