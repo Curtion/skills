@@ -592,6 +592,19 @@
       "file_hashes": {
         "SKILL.md": "sha256:e7e34379490f9920f803e183cedcfa0d67d560b999f4acdfbd8142ac41d09fd8"
       }
+    },
+    "ui/frontend-design": {
+      "source": "https://github.com/anthropics/claude-code/plugins/frontend-design/skills/frontend-design",
+      "type": "github-subdir",
+      "group": "ui",
+      "installed_at": "2026-09-04T23:03:46.9868283+08:00",
+      "repo_url": "https://github.com/anthropics/claude-code.git",
+      "subdir": "plugins/frontend-design/skills/frontend-design",
+      "version": "b3f0e50",
+      "tree_hash": "28af03c1c2b14d1ebe9ae5e4358a18498cc83b8c",
+      "file_hashes": {
+        "SKILL.md": "sha256:d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3"
+      }
     }
   }
 }
