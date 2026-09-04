@@ -229,14 +229,14 @@
       "type": "github-subdir",
       "group": "matt",
       "branch": "v1.2.3",
-      "installed_at": "2026-08-07T00:12:55.874648+08:00",
+      "installed_at": "2026-09-04T16:00:26.1970196+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/implement",
       "version": "6acc160",
       "tree_hash": "f07d230f645fc9ac390cf13a450bbff12ad791a3",
       "file_hashes": {
-        "SKILL.md": "sha256:6d3fd9e83b8f36e5213854779db49b256a457a7ebb4a503e53fa7dcff696adc3",
-        "agents/openai.yaml": "sha256:8970a8596ade0c28ab427f41a4ea242d6bdf6186c59ebf55e1238dbecaab79dc"
+        "SKILL.md": "sha256:30cd7bc1ebfb3891e85a1eed3b3b81aea0fa4ad4553a784de7f8e421b2d223e0",
+        "agents/openai.yaml": "sha256:8494f83602c58f8ab33d047d0516cdb90b8c29e6d564de0cef810daaca378bcb"
       }
     },
     "matt/improve-codebase-architecture": {
@@ -495,17 +495,30 @@
         "agents/openai.yaml": "sha256:0f227b4fb11ac6cc087464a96153e443c8541e92c0db605f356b2c1d4038c96e"
       }
     },
+    "tools/show-me": {
+      "source": "https://github.com/humanlayer/skills/plugins/show-me/skills/show-me",
+      "type": "github-subdir",
+      "group": "tools",
+      "installed_at": "2026-09-04T16:05:28.5528152+08:00",
+      "repo_url": "https://github.com/humanlayer/skills.git",
+      "subdir": "plugins/show-me/skills/show-me",
+      "version": "3c26291",
+      "tree_hash": "0bdb821a21e793a4f6f82a7078c052154447e5cc",
+      "file_hashes": {
+        "SKILL.md": "sha256:2b5635cce0185faee035df02e058ab8f50d7e3b495e84d68efce135b4c550662"
+      }
+    },
     "tools/skillshare": {
       "source": "https://github.com/runkids/skillshare.git/skills/skillshare",
       "type": "github-subdir",
       "group": "tools",
-      "installed_at": "2026-08-28T11:47:03.207068+08:00",
+      "installed_at": "2026-09-04T16:00:14.8197223+08:00",
       "repo_url": "https://github.com/runkids/skillshare.git",
       "subdir": "skills/skillshare",
-      "version": "47bda2a",
-      "tree_hash": "fdf59a2844aab6bee430b45983ba17cf2d0c1ed4",
+      "version": "ab8e4d9",
+      "tree_hash": "0e4bbdc2c01d0082752e68d69d010b7341f07a9f",
       "file_hashes": {
-        "SKILL.md": "sha256:20aed49228fcb19bd9d8dfde1ecf5a239e0eb6396e25e1712ce5d6adf93f32dc",
+        "SKILL.md": "sha256:35d5e26053e457c495a3484fde01ce2fa45a4eeeebb0e18216138c0038e959a8",
         "references/TROUBLESHOOTING.md": "sha256:963ef806ee223dd4abe9e5cdf3911dc21d8cbba6ca545c3c72d18fb925d767ec",
         "references/audit.md": "sha256:27c64924222212ca383a6426d842339c998a5b04a6ba8955de7af1108d854850",
         "references/backup.md": "sha256:1b7833a3e0b4d9cb5cc1f9ba8b9aa49f85d04ddf2e3849e8b20fd3fe0ae3e0f1",
